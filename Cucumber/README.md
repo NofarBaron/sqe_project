@@ -1,4 +1,4 @@
-# Testing Choice-Module In Moodle using Cucumber
+# Testing Choice-Module In Moodle Software using Cucumber
 This directory contains the cucumber files for testing the module of the "Detect bugs while edit choice" application.
 
 ## Running the tests
