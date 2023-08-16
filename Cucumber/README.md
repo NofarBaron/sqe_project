@@ -9,13 +9,13 @@ We tested the Choice module that allows you to ask a question and set up buttons
 
 We chose to test the following user stories: 
 
-*User story:* A teacher delete a choice while Student answer it. to the course with two yes/no questions
+***User story:*** A teacher delete a choice while Student answer it. to the course with two yes/no questions
 
 *Preconditions:* There is a course with a teacher, the course has a choice. 
 
 *Expected outcome:* The choice is deleted from the course.
 
-*User story:* A students answer a choice.
+***User story:*** A students answer a choice.
 
 *Preconditions:* There is a course with a choice, and the student is register to this chourse.
 
