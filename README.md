@@ -9,7 +9,7 @@ Model is free software that is used as an online system for computer-integrated 
 $$*TODO* Write instructions on how to install the software and prepare the testing environment$$
 
 ## What we tested
-We tested the quiz module that allows for creating and taking quizzes. We chose to test the following user stories: 
+We tested the **quiz** module that allows for creating and taking quizzes. We chose to test the following user stories: 
 
 *User story:* A teacher adds a new quiz to the course with two yes/no questions
 
@@ -32,5 +32,5 @@ We used two different testing methods:
 Each of the testing methods is elaborated in its own directory. 
 
 ## Results
-Update all README.md files (except for d-e, see Section 1). Specifically, replace all $$*TODO*…$$ according to the instructions inside the $$.
+
 
